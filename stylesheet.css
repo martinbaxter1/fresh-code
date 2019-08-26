@@ -1,0 +1,29 @@
+h1 {
+    font-family:  monospace;
+    background-color: blanchedalmond;
+    text-align: center;
+    border: 3px solid black
+    
+}
+.fullcard {
+    width: 245px;
+    border: 3px solid
+    black;
+    border-radius: 5px;
+    margin: 50px auto;
+    padding: 10px;
+    background-color: rgb(87, 88, 85)
+    
+}
+.card-content {
+    padding: 10px;
+}
+.card-text {
+    margin-bottom: 30px;
+}
+#thumbnail {
+    box-shadow: 0 19px 30px 20px blue,
+    0 12px 20px 10px black;
+
+
+}
